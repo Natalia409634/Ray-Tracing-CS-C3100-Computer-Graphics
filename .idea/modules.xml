@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ray-Tracing-CS-C3100-Computer-Graphics.iml" filepath="$PROJECT_DIR$/.idea/Ray-Tracing-CS-C3100-Computer-Graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment5-dist/.idea/assignment5-dist.iml" filepath="$PROJECT_DIR$/assignment5-dist/.idea/assignment5-dist.iml" />
+    </modules>
+  </component>
+</project>
